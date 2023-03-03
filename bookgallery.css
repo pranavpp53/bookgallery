@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Gajraj+One&family=Tilt+Prism&family=Tilt+Warp&display=swap');
+body{
+    color: rgb(245, 9, 9);
+    background-color: black;
+   
+
+}
+h2{
+    font-family: 'Anton', sans-serif;
+}
+.a1{
+    background-color: black;
+    height: 670px;
+    width: 18%;
+    border: red 2px solid;
+    float: left;
+    padding: 8px;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 100%;
+}
+button{
+    color: rgb(12, 12, 12);
+    background-color: red;
+}
